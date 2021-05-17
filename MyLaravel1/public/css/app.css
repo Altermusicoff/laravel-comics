@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+}
+
+body ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body img {
+  width: 40%;
+}
+
+#jumbotron {
+  width: 100%;
+}
+
